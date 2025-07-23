@@ -1,0 +1,23 @@
+body {
+    margin : 20px
+}
+.DP {
+    width: 100px;
+}
+.card{
+    display: flex;
+    margin: 0px auto;
+    width: 400px;
+    padding: 20px;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 8px solid #EDBBB4; 
+    border-radius:  8px;
+    background: #EAFFFD;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+    
+}
+.border {
+    border: hidden;
+}
